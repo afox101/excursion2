@@ -1,7 +1,42 @@
-#discover: {
-  color: red;
-  
+
+body {
+  background-color: black;
+  justify-content: center;
+  text-align: center;
+}
+.top {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  justify-content: center;
+}
+
+.mid {
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+.bottom {
+  text-align: right;
+  color: gray;
 
 }
 
+.description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+a:link {
+  font-size: 16px
+  justify-content: center;
+  color: aquamarine;
+}
+
+a:visited {
+  color: aquamarine;
 }
